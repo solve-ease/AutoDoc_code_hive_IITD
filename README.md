@@ -85,7 +85,7 @@ The platform consists of three main components:
 1. Clone the repository:
    ```bash
    git clone https://github.com/solve-ease/AutoDoc_code_hive_IITD.git
-   cd AutoDoc_DUHACKS4
+   cd AutoDoc_code_hive_IITD
     ```
 2. Frontend setup
     ```bash
